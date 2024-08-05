@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">BotComanderYT 🤖</h1>
 
 <p align="center">
