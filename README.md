@@ -69,7 +69,7 @@ Contribuições são muito bem-vindas! Se você deseja ajudar a melhorar o proje
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
-Feito com ❤️ e Python por [SeuNome](https://www.github.com/seu-usuario).
+Feito com ❤️ e Python por [Kalebzaki4](https://github.com/kalebzaki4?tab=overview&from=2024-01-01&to=2024-01-24).
 
 ```
 
