@@ -2,10 +2,6 @@
 <h1 align="center">BotComanderYT 🤖</h1>
 
 <p align="center">
-  <img src="link_para_uma_imagem" alt="Logo do BotComanderYT" width="200">
-</p>
-
-<p align="center">
   👋 Bem-vindo ao BotComanderYT! Este é um bot criado para explorar e analisar as tendências de animes no YouTube Brasil. É uma excelente oportunidade para praticar Python e experimentar com APIs e processamento de vídeos.
 </p>
 
